@@ -1,7 +1,13 @@
 id=rvx_yt
+<<<<<<< HEAD
+name=YouTube Revanced Extended
+version=v17.45.36
+versionCode=1532749248
+=======
 name=YouTube Revanced
 version=v17.44.34
 versionCode=1532614080
+>>>>>>> 353b6b068fe2761290a64dc7f105d0bb1c340b71
 author=[_Kanaria_]
-description=Youtube Revanced Magisk Module
+description=Youtube Revanced Extended Magisk Module
 
